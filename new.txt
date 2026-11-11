@@ -1,4 +1,5 @@
-hello 
+add data
+data added
 good morning
-pop
-new data
+added new data entry
+
